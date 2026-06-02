@@ -1,0 +1,1 @@
+select * from DE_ECOM.SCH_ECOM.EMPLOYEES
